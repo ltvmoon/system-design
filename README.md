@@ -368,6 +368,7 @@
 - [How to design your own AI agent](https://newsletter.systemdesign.one/p/how-do-ai-agents-work)
 - [11 AI Concepts Explained, Simply](https://newsletter.systemdesign.one/p/ai-concepts)
 - [Agentic AI Use Cases in Software Development Workflow](https://newsletter.systemdesign.one/p/agentic-ai-use-cases)
+- [30 Agentic Engineering Concepts, Explained Simply](https://newsletter.systemdesign.one/p/agentic-engineering)
 
 #### C ai
 
